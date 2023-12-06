@@ -1,5 +1,5 @@
 # Dye_et_al_mullet_salinity
-R script to statistically analyze (i.e. reproduce results from Dye et al. 202X) the compartmental usage of the thinlip mullet within an experimental water temperature preference chamber.
+RStudio project to statistically analyze (i.e. reproduce results from Dye et al. 202X) the compartmental usage of the thinlip mullet within an experimental water temperature preference chamber.
 
 - mullet_temperature_preference.R - Statistically analyze the data for non random use of the preference chamber, conduct MANOVA to test for differences in compartment usage during the different observational phases and salinity treatments, rank the temperature compartments (i.e. most preferred to least preferred), and statistically test the preference rankings.
 
