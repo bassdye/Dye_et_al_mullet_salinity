@@ -1,0 +1,4 @@
+"0","if(!require(easypackages)) install.packages(""easypackages"")"
+"0","easypackages::packages(c(""tidyverse"", ""readxl"", ""fs"", ""here"", ""ggpubr"", ""gtools""), prompt = FALSE)"
+"2","All packages loaded successfully
+"

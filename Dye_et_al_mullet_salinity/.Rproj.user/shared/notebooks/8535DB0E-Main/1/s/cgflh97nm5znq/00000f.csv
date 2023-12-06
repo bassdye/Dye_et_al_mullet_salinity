@@ -1,0 +1,10 @@
+"0","if(!require(easypackages)) install.packages(""easypackages"")"
+"2","Loading required package: easypackages
+"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"0","easypackages::packages(c(""tidyverse"", ""readxl"", ""fs"", ""here"", ""ggpubr"", ""gtools""), prompt = FALSE)"
+"2","All packages loaded successfully
+"
